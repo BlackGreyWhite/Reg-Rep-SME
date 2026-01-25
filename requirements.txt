@@ -1,0 +1,20 @@
+# Azure AI packages
+azure-ai-projects==1.0.0b10
+azure-ai-inference[prompts]
+azure-identity
+azure-search-documents
+azure-storage-blob
+azure-monitor-opentelemetry
+
+# Data processing
+pandas
+python-dotenv
+opentelemetry-api
+
+# Web scraping packages
+beautifulsoup4
+requests
+playwright
+lxml
+html2text
+aiohttp
