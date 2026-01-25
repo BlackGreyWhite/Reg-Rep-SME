@@ -1,0 +1,6 @@
+# Add your specific websites here (one per line)
+# Check robots.txt before adding!
+
+# Example: MAS Singapore (financial regulations)
+https://www.mas.gov.sg/regulation
+https://www.mas.gov.sg/publications
